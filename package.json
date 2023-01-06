@@ -1,0 +1,20 @@
+{
+  "name": "seevoi-and-sentry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/browser": "^7.29.0",
+    "@sentry/tracing": "^7.29.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "posthtml-expressions": "^1.11.0"
+  }
+}
