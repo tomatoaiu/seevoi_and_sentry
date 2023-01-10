@@ -22,4 +22,5 @@ SEEVOI_WORKSPACE_ID=xx-xx-xx-xx
 4. http://localhost:1234 をブラウザを開く
 5. ボタンをクリック
 6. Sentryのissueを開く (https://sentry.io/organizations/{あなたのプロジェクトID}/issues/?referrer=sidebar)
-7. 確認し、Clicked Button
+7. 画面の Click Button を押す
+8. Sentryのissueで新しいエラーが来ているか確認する
