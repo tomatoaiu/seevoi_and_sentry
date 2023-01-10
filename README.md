@@ -1,5 +1,10 @@
 # Seevoi と Sentry の組み合わせテスト環境
 
+## 必要なもの
+- [Node.js](https://nodejs.org/ja/)
+- [Seevoi](https://seebel.co/)
+- [Sentry](https://sentry.io/welcome/)
+
 ## 使い方
 1. .envファイルを作成
 
